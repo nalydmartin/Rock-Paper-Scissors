@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+    outline: 1px dotted red;
+}
+
+#hands {
+    background-image: linear-gradient(45deg, silver, white, silver);
+
+    display: inline-flex;
+    
+}
+
+
+.hand {
+    width: 10rem;
+    height: 10rem;
+    
+}
+
+img {
+    width: 6rem;
+}
+
+h3 {
+    color: black;
+}
+
+.winner {
+    background-color: green;
+}
+
+.loser {
+    background-color: red;
+}
+
+.tie {
+    background-color: blue;
+}
